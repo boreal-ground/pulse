@@ -1,5 +1,5 @@
--- blink for iii - boreal ground
-print("blink v1.0")
+-- pulse for iii - boreal ground
+print("pulse v1.0")
 
 -- starting parameters
 local clock_led = 0
